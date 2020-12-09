@@ -1,4 +1,4 @@
-import psutil # Retrieving information on system utilization
+import psutil # Retrieving info on system utilization
 import csv # Write data to csv file
 import datetime as dt # Retreive current time
 
